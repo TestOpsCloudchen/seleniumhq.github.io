@@ -144,7 +144,7 @@ fun main() {
 
 ## 入门指南
 
-如果您刚刚接触 Selenium，我们有一些资源可以帮助您快速上手。
+如果您刚刚接触 Selenium，我们列举了以下资源来帮助您快速上手。
 
 * [快速浏览]({{< ref "/getting_started/quick.zh-cn.md" >}})
   * [WebDriver]({{< ref "/getting_started/quick.zh-cn.md#webdriver" >}})
